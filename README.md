@@ -17,3 +17,4 @@ Create a travel from as shown in the mockup below:
 
 - make it responsive, items stack on top of each other
 - improve text readability
+
